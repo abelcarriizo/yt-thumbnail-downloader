@@ -11,5 +11,5 @@ Una herramienta sencilla en Python para descargar miniaturas (thumbnails) de vid
 
 1. Ejecuta el script:
    ```bash
-   python3 yt-thumbnail-downloader.py
+   python3 app.py
    ```
